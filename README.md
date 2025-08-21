@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
 ## Administrador de bases de datos y sistemas
+Mi nombre es Pablo Delgado y soy DBA y sysadmin.
+
+Aunque estoy especializado en Oracle, también administro otros motores de bases de datos como PostgreSQL, MySQL/MariaDB, SQL Server, MongoDB, Elasticsearch, Redis o AWS Redshift.
+
+Me gusta mucho programar scripts de automatización en Shell o Python, aunque también conozco otros lenguajes como C, Java o PHP.
