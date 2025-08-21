@@ -32,3 +32,9 @@ Mi nombre es Pablo Delgado y soy DBA y sysadmin.
 Aunque estoy especializado en Oracle, también administro otros motores de bases de datos como PostgreSQL, MySQL/MariaDB, SQL Server, MongoDB, Elasticsearch, Redis o AWS Redshift.
 
 Me gusta mucho programar scripts de automatización en Shell o Python, aunque también conozco otros lenguajes como C, Java o PHP.
+
+Aquí compartiré algún código que desarrolle para mis quehaceres personales.
+
+Puedes seguirme en LinkedIn.
+
+<a href="https://www.linkedin.com/in/pablodelflo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
